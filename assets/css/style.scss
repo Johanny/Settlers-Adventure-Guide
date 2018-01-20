@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+div.shell {
+	width: 1280px;
+}
+
+span.banner-fix {
+	width: 1280px;
+}
+
+div#no-downloads {
+	background: none;
+	height: 187px;
+	margin-top: -80px;
+}
+
+div#no-downloads span.inner {
+	height: 187px;
+}
