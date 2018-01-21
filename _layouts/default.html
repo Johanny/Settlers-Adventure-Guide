@@ -37,10 +37,18 @@
         </span>
       </header>
 
-      <div id="no-downloads">
-        <span class="inner">
-        </span>
-      </div>
+      {% if page.title %}
+        <div id="no-downloads">
+          <span class="inner">
+            <p>{{page.title}}</p>
+          </span>
+        </div>
+      {% else %}
+        <div id="no-downloads">
+          <span class="inner">
+          </span>
+        </div>
+      {% endif %}
 
       <section id="main_content">
         {{ content }}

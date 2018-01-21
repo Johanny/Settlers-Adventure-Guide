@@ -20,3 +20,29 @@ div#no-downloads {
 div#no-downloads span.inner {
 	height: 187px;
 }
+
+div#no-downloads p {
+  display: block;
+  position: relative;
+  height: 67px;
+  padding-top: 135px;
+  margin: 0;
+  text-align: center;
+  line-height: 1;
+  color: #fff;
+  font-family: 'Open Sans', Myriad, Calibri, sans-serif;
+  font-weight: 800;
+  font-size: 1.3em;
+}
+
+section#main_content {
+	padding-top: 10px;
+}
+
+img {
+	max-width: 1112px;
+}
+
+footer {
+	background: none;
+}
