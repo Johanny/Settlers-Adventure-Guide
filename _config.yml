@@ -2,3 +2,14 @@ theme: jekyll-theme-merlot
 title: Settlers adventure guides
 description: This website provide adventure guides for The Settlers Online
 repository: Johanny/Settlers-Adventure-Guide
+
+collections:
+  adventures:
+    output: true
+    permalink: /adventures/:name
+
+defaults:
+  - scope:
+      type: adventures
+    values:
+      layout: default
