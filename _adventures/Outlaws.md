@@ -14,7 +14,7 @@ title: Outlaws
 
 | Position |   Camp  | Allied Units                         | Losses  | Camp unit's                                   |
 |:--------:|:-------:|--------------------------------------|---------|-----------------------------------------------|
-|    G4    |    12   | 2 [R] 1 [S] 234 [C]                  | 2 [R]   | 80 Scavenger                                  |
+|    G4    |    12   | 2 [R] 1 [S] 232 [C]                  | 2 [R]   | 80 Scavenger                                  |
 |    G4    |    13   | Same as camp 12                      | No loss | 80 Stone Thrower                              |
 |    G4    |    14   | 73 [R] 147 [S]                       | 73 [R]  | 30 Thug, 80 Guard Dog, 50 Ranger              |
 |    G5    |    15   | 53 [R] 182 [S]                       | 53 [R]  | 100 Scavenger, 30 Guard Dog, 30 Stone Thrower |
