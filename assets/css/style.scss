@@ -22,17 +22,17 @@ div#no-downloads span.inner {
 }
 
 div#no-downloads p {
-  display: block;
-  position: relative;
-  height: 67px;
-  padding-top: 135px;
-  margin: 0;
-  text-align: center;
-  line-height: 1;
-  color: #fff;
-  font-family: 'Open Sans', Myriad, Calibri, sans-serif;
-  font-weight: 800;
-  font-size: 1.3em;
+	display: block;
+	position: relative;
+	height: 67px;
+	padding-top: 135px;
+	margin: 0;
+	text-align: center;
+	line-height: 1;
+	color: #fff;
+	font-family: 'Open Sans', Myriad, Calibri, sans-serif;
+	font-weight: 800;
+	font-size: 1.3em;
 }
 
 section#main_content {
@@ -45,4 +45,8 @@ img {
 
 footer {
 	background: none;
+}
+
+table {
+	overflow: scroll;
 }
